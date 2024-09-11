@@ -1,7 +1,3 @@
-Here’s the updated README file without using the word "course":
-
----
-
 # Natural Language Processing (NLP) with Python (Beginners Level)
 
 ## Overview
